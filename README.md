@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sanish Chandran 👋
 
-<!--
-**sanishkc/sanishkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Automation Lead | Web & API Testing | CI/CD | Agentic AI Workflows**  
+📍 Cape Town, South Africa | Open to Remote Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+**UI Automation:** Selenium, Playwright, Cucumber (BDD)  
+**API Testing:** Postman, SoapUI, RestAssured  
+**Programming:** Java, Basic - Python, C#, Typescript
+**CI/CD & Version Control:** Git, GitHub, GitHub Actions, Jenkins, Bamboo, Bitbucket  
+**Cloud & AI:** AWS Cloud Practitioner, AWS AI Practitioner  
+**Methodology:** Agile, Waterfall  
+
+---
+
+## 🚀 Featured Projects
+
+### [Playwright Login Automation Framework](https://github.com/sanishkc/PlaywrightLoginProject)  [![Playwright Maven Tests](https://github.com/sanishkc/PlaywrightLoginProject/actions/workflows/maven-tests.yml/badge.svg)](https://github.com/sanishkc/PlaywrightLoginProject/actions/workflows/maven-tests.yml)
+- Automated UI login tests using Playwright & Java  
+- Page Object Model (POM) & CI/CD integration via GitHub Actions  
+- Positive & negative login scenarios  
+- Demonstrates scalable, maintainable QA automation framework design  
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/sanishchandran/) | [Email](mailto:your-email@example.com)  
+
