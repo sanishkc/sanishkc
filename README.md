@@ -9,10 +9,18 @@
 
 **UI Automation:** Selenium, Playwright, Cucumber (BDD)  
 **API Testing:** Postman, SoapUI, RestAssured  
-**Programming:** Java, Basic - Python, C#, Typescript
-**CI/CD & Version Control:** Git, GitHub, GitHub Actions, Jenkins, Bamboo, Bitbucket  
-**Cloud & AI:** AWS Cloud Practitioner, AWS AI Practitioner  
+**Workflow Automation:** N8N  
+**Programming:** Java, Basic - Python, C#, Typescript  
+**CI/CD & Version Control:** Git, GitHub, GitHub Actions, Jenkins, Bamboo, Bitbucket   
 **Methodology:** Agile, Waterfall  
+
+---
+
+## 🎓 Certifications
+
+- **ISTQB Certified Tester – Foundation Level (CTFL)**  
+- **AWS Certified Cloud Practitioner**  
+- **AWS Certified AI Practitioner**
 
 ---
 
