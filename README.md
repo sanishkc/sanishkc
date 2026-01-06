@@ -1,7 +1,7 @@
 # Hi, I'm Sanish Chandran 👋
 
 **QA Automation Lead | Web & API Test Automation | CI/CD | Agentic AI Workflows**  
-📍 Cape Town, South Africa | Open to Remote Opportunities  
+📍 Cape Town, South Africa
 
 ---
 
