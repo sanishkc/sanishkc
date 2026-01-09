@@ -24,16 +24,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### [Playwright Login Automation Framework](https://github.com/sanishkc/PlaywrightLoginProject)  [![Playwright Maven Tests](https://github.com/sanishkc/PlaywrightLoginProject/actions/workflows/maven-tests.yml/badge.svg)](https://github.com/sanishkc/PlaywrightLoginProject/actions/workflows/maven-tests.yml)
-- Automated UI login tests using Playwright & Java  
-- Page Object Model (POM) & CI/CD integration via GitHub Actions  
-- Positive & negative login scenarios  
-- Demonstrates scalable, maintainable QA automation framework design  
-
----
-
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/sanishchandran/) | [Email](mailto:your-email@example.com)  
